@@ -1,2 +1,1 @@
-web: php artisan serve --host=127.0.0.1 --port=$PORT
-127.0.0.1
+php artisan serve --host=127.0.0.1 --port=$PORT

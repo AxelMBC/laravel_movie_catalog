@@ -2,6 +2,7 @@
     "private": true,
     "type": "module",
     "scripts": {
+        "postinstall": "ng build --configuration=production",
         "dev": "vite",
         "build": "vite build"
     },
